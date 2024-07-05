@@ -1,5 +1,5 @@
 
-# Hi, I'm Melvin!
+## Hi, I'm Melvin!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melvingalera)
 
 
@@ -9,7 +9,7 @@ Studied MSc in Health Data Science at University of New South Wales (UNSW)
 
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SAS](https://img.shields.io/badge/SAS-377EAE?style=for-the-badge&logo=sas&logoColor=white)
@@ -29,23 +29,27 @@ Studied MSc in Health Data Science at University of New South Wales (UNSW)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+<br>
+
 ## Projects
 
-- Medical expenses prediction using regression analysis in R
-- Diabetes prediction using regression analysis in R
-- Breast cancer survival analysis with R
-- Heart disease prediction using machine learning in python
-- COVID-19 Data ecploration using SQL
-- Population growth data exploration using SQL
+- <p><a href = "https://melgalera.github.io/Linear-Regression-with-R/" target = "_blank">Medical expenses prediction using regression analysis in R</a></p>
+- <p><a href = "https://melgalera.github.io/Logistic-Regression-GLM-with-R/" target = "_blank">Diabetes prediction using regression analysis in R</a></p>
+- <p><a href = "https://melgalera.github.io/Survival-Analysis-with-R/" target = "_blank">Breast cancer survival analysis with R</a></p>
+- <p><a href = "https://nbviewer.org/github/MelGalera/Heart-Disease-Prediction-with-Python/blob/main/Heart_disease_UCL.ipynb" target = "_blank">Heart disease prediction using machine learning in Python</a></p>
+- <p><a href = "https://melgalera.github.io/COVID-data-exploration-by-SQL/" target = "_blank">COVID-19 Data Exploration using SQL</a></p>
+- <p><a href = "https://melgalera.github.io/Population-growth-data-exploration-by-SQL/" target = "_blank">Population Growth Data Exploration using SQL</a></p> 
+
+<br>
 
 **Data Visualizations**
 
-- Australia Higher Education Student Enrolments Dashboard (Tableau)
-- Australia Higher Education Award Course Completions Dashboard (Tableau)
-- COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)
-- Australia Burden of Disease Visualization (Tableau)
-- Australia Public Hospitals Dashboard (R Shiny)
-- New South Wales COVID-19 Cases Dashboard (R Flexdashboard)
+- <p><a href = "https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Student Enrolments Dashboard (Tableau)</a></p>
+- <p><a href = "https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Award Course Completions Dashboard (Tableau)</a></p> 
+- <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
+- <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization (Tableau)</a></p>
+- <p><a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/" target = "_blank">Australia Public Hospitals Dashboard (R Shiny)</a></p>
+- <p><a href = "https://melgalera.github.io/NSW-COVID-Dashboard-with-R/" target = "_blank">New South Wales COVID-19 Cases Dashboard (R Flexdashboard)</a></p>
 
 
 
