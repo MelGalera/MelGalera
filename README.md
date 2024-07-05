@@ -29,7 +29,23 @@ Studied MSc in Health Data Science at University of New South Wales (UNSW)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+## Projects
 
+- Medical expenses prediction using regression analysis in R
+- Diabetes prediction using regression analysis in R
+- Breast cancer survival analysis with R
+- Heart disease prediction using machine learning in python
+- COVID-19 Data ecploration using SQL
+- Population growth data exploration using SQL
+
+**Data Visualizations**
+
+- Australia Higher Education Student Enrolments Dashboard (Tableau)
+- Australia Higher Education Award Course Completions Dashboard (Tableau)
+- COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)
+- Australia Burden of Disease Visualization (Tableau)
+- Australia Public Hospitals Dashboard (R Shiny)
+- New South Wales COVID-19 Cases Dashboard (R Flexdashboard)
 
  
 
