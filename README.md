@@ -33,23 +33,23 @@ Studied MSc in Health Data Science at University of New South Wales (UNSW)
 
 ## Projects
 
-- <p><a href = "https://melgalera.github.io/Linear-Regression-with-R/" target = "_blank">Medical expenses prediction using regression analysis in R</a></p>
-- <p><a href = "https://melgalera.github.io/Logistic-Regression-GLM-with-R/" target = "_blank">Diabetes prediction using regression analysis in R</a></p>
-- <p><a href = "https://melgalera.github.io/Survival-Analysis-with-R/" target = "_blank">Breast cancer survival analysis with R</a></p>
-- <p><a href = "https://nbviewer.org/github/MelGalera/Heart-Disease-Prediction-with-Python/blob/main/Heart_disease_UCL.ipynb" target = "_blank">Heart disease prediction using machine learning in Python</a></p>
-- <p><a href = "https://melgalera.github.io/COVID-data-exploration-by-SQL/" target = "_blank">COVID-19 Data Exploration using SQL</a></p>
-- <p><a href = "https://melgalera.github.io/Population-growth-data-exploration-by-SQL/" target = "_blank">Population Growth Data Exploration using SQL</a></p> 
+|Exploratory & statistical analysis                          |                         |
+|------------------------------------------------------------|-------------------------|
+| Medical expenses prediction using regression analysis in R |<a href = "https://melgalera.github.io/Linear-Regression-with-R/" target = "_blank">view here</a>
+| Diabetes prediction using regression analysis in R |<a href = "https://melgalera.github.io/Logistic-Regression-GLM-with-R/" target = "_blank">view here</a>
+| Breast cancer survival analysis with R  |<a href = "https://melgalera.github.io/Survival-Analysis-with-R/" target = "_blank">view here</a>
+| Heart disease prediction using machine learning in Python |<a href = "https://nbviewer.org/github/MelGalera/Heart-Disease-Prediction-with-Python/blob/main/Heart_disease_UCL.ipynb" target = "_blank">view here</a>
+| COVID-19 Data Exploration using SQL |<a href = "https://melgalera.github.io/COVID-data-exploration-by-SQL/" target = "_blank">view here</a>
+| Population Growth Data Exploration using SQL |<a href = "https://melgalera.github.io/Population-growth-data-exploration-by-SQL/" target = "_blank">view here</a>
 
-<br>
-
-**Data Visualizations**
-
-- <p><a href = "https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Student Enrolments Dashboard (Tableau)</a></p>
-- <p><a href = "https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Higher Education Award Course Completions Dashboard (Tableau)</a></p> 
-- <p><a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau)</a></p>  
-- <p><a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">Australia Burden of Disease Visualization (Tableau)</a></p>
-- <p><a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/" target = "_blank">Australia Public Hospitals Dashboard (R Shiny)</a></p>
-- <p><a href = "https://melgalera.github.io/NSW-COVID-Dashboard-with-R/" target = "_blank">New South Wales COVID-19 Cases Dashboard (R Flexdashboard)</a></p>
+|Data Visualizations                                         |                         |
+|------------------------------------------------------------|-------------------------|
+| Australia Higher Education Student Enrolments Dashboard (Tableau) |<a href = "https://public.tableau.com/views/AUS_HDE/StudentEnrolmentsPartA?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">view here</a>
+| Australia Higher Education Award Course Completions Dashboard (Tableau) |<a href = "https://public.tableau.com/views/AUS_Completion/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">view here</a>
+| COVID-19 Cases, Deaths & Vaccinations Dashboard (Tableau) |<a href = "https://public.tableau.com/views/Covid_deaths_17194860048630/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">view here</a>
+| Australia Burden of Disease Visualization (Tableau) |<a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">view here</a>
+| Australia Public Hospitals Dashboard (R Shiny) |<a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/" target = "_blank">view here</a>
+| New South Wales COVID-19 Cases Dashboard (R Flexdashboard) |<a href = "https://melgalera.github.io/NSW-COVID-Dashboard-with-R/" target = "_blank">view here</a> 
 
 
 
