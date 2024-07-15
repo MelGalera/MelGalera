@@ -2,7 +2,6 @@
 ## Hi, I'm Melvin!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melvingalera)
 
-<br>
 
 ### About Me
 
@@ -12,9 +11,9 @@ With a Master's degree in Health Data Science from UNSW and extensive experience
 
 This GitHub profile is a showcase of my work, featuring a diverse collection of projects that highlight my expertise in:
 
-**Data Analysis:** Exploratory data analysis, statistical analysis, and predictive modeling.
-**Data Visualization:** Creating intuitive and insightful visualizations using tools like Tableau, R Shiny, R, Flexdashboard, and Power BI.
-**Machine Learning:** Building and deploying models using various algorithms and techniques.
+- **Data Analysis:** Exploratory data analysis, statistical analysis, and predictive modeling.
+- **Data Visualization:** Creating intuitive and insightful visualizations using tools like Tableau, R Shiny, R, Flexdashboard, and Power BI.
+- **Machine Learning:** Building and deploying models using various algorithms and techniques.
 
 <br>
 
