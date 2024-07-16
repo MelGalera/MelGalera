@@ -37,6 +37,7 @@ This GitHub profile is a showcase of my work, featuring a diverse collection of 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-03A9F4?style=for-the-badge&logo=spacy&logoColor=white)
 ![Prodigy](https://img.shields.io/badge/Prodigy-8B82BC?style=for-the-badge&logo=prodigy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
