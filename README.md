@@ -62,6 +62,7 @@ This GitHub profile is a showcase of my work, featuring a diverse collection of 
 | Australia Burden of Disease Visualization (Tableau) |<a href = "https://public.tableau.com/views/aus_burden_of_disease_viz/ABDdashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target = "_blank">view here</a>
 | Australia Public Hospitals Dashboard (R Shiny) |<a href = "https://melgalera.github.io/Public-Hospitals-Dashboard-with-R/" target = "_blank">view here</a>
 | New South Wales COVID-19 Cases Dashboard (R Flexdashboard) |<a href = "https://melgalera.github.io/NSW-COVID-Dashboard-with-R/" target = "_blank">view here</a> 
+| Patients Emergency Room Visit Dashboard (Power BI) |<a href = "https://melgalera.github.io/Patient-ER-Visit-with-PBI/" target = "_blank">view here</a> 
 
 
 
